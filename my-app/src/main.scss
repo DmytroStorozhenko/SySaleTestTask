@@ -1,0 +1,17 @@
+// variables
+$main_bgc: #F8FAFC;
+$main_black: #2C2C2C;
+$white: #FFFFFF;
+$select_hover: #F3F8FC;
+$golden_gradient: linear-gradient(261.65deg, #EFBB37 -3.95%, #CF9E1F 109.44%);
+
+// mixins
+@mixin select_font {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 14px;
+  color: $main_black;
+}
+@mixin test_border {
+  border: 1px solid red;
+}
