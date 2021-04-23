@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SySaleTestTask/static/css/main.97c2c05a.chunk.css",
+    "main.js": "/SySaleTestTask/static/js/main.d2069d14.chunk.js",
+    "main.js.map": "/SySaleTestTask/static/js/main.d2069d14.chunk.js.map",
+    "runtime-main.js": "/SySaleTestTask/static/js/runtime-main.c2957c26.js",
+    "runtime-main.js.map": "/SySaleTestTask/static/js/runtime-main.c2957c26.js.map",
+    "static/js/2.22ae6403.chunk.js": "/SySaleTestTask/static/js/2.22ae6403.chunk.js",
+    "static/js/2.22ae6403.chunk.js.map": "/SySaleTestTask/static/js/2.22ae6403.chunk.js.map",
+    "static/js/3.69e18242.chunk.js": "/SySaleTestTask/static/js/3.69e18242.chunk.js",
+    "static/js/3.69e18242.chunk.js.map": "/SySaleTestTask/static/js/3.69e18242.chunk.js.map",
+    "index.html": "/SySaleTestTask/index.html",
+    "static/css/main.97c2c05a.chunk.css.map": "/SySaleTestTask/static/css/main.97c2c05a.chunk.css.map",
+    "static/js/2.22ae6403.chunk.js.LICENSE.txt": "/SySaleTestTask/static/js/2.22ae6403.chunk.js.LICENSE.txt",
+    "static/media/item_1.10b6683a.jpg": "/SySaleTestTask/static/media/item_1.10b6683a.jpg",
+    "static/media/item_2.b7ffae38.jpg": "/SySaleTestTask/static/media/item_2.b7ffae38.jpg",
+    "static/media/item_3.81360fb9.png": "/SySaleTestTask/static/media/item_3.81360fb9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2957c26.js",
+    "static/js/2.22ae6403.chunk.js",
+    "static/css/main.97c2c05a.chunk.css",
+    "static/js/main.d2069d14.chunk.js"
+  ]
+}
